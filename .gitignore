@@ -1,0 +1,46 @@
+# Eclipse-specific files
+.metadata/
+bin/
+tmp/
+.settings/
+.loadpath
+.recommenders/
+.factorypath
+.externalToolBuilders/
+*.launch
+
+# Visual Studio Code-specific files
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA-specific files
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven specific
+target/
+
+# Gradle specific
+.gradle/
+build/
+
+# IntelliJ project files
+.idea/
+
+# Eclipse project files
+.project
+.classpath
